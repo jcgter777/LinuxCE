@@ -7,5 +7,6 @@ This website is dedicated to the distribution of LinuxCE and development.
 Currently, there are no avaible builds or releases. Check back in the future for releases
 
 ## Development:
-### ToDo:
+  
+## Todo:
 Add Command Detection Script
